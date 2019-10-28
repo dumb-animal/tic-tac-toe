@@ -1,1 +1,1 @@
-## Game from React tutorial
+## Game from the React tutorial
